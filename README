@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1064
+
+Almost each ASP keyword may be accessed by its short cut (and by the menu if using a GUI) in each of 3 modes.
+If you don't like to use "<F5>" as a trigger you can change it to, for examle "?".
+Open asp.vim in Vim editor and substitute :%s/<F5>/?/g
+
